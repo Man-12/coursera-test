@@ -1,2 +1,1 @@
-# coursera-test
-coursera
+Basic html syntax
